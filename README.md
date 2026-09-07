@@ -1,2 +1,7 @@
-# L04_TEAM_FA26_ML_6171_163474_ITAI1371
-ITAI 1371 Lab 04 - Exploratory Data Analysis: Group 4 submission
+# ITAI 1371 — Lab 04 — Group FA26_ML_6171_16347 4
+Lab 04 deliverables: Working with Data and Exploratory Data Analysis.
+
+Team members who participated:
+- Seth Alvarez
+- Diane Lenhoff
+- Elquin Ponce hercules
