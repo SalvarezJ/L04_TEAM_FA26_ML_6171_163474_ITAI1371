@@ -5,3 +5,5 @@ Team members who participated:
 - Seth Alvarez
 - Diane Lenhoff
 - Elquin Ponce hercules
+- KeiChara Fleeks-Jones
+- Aaliyah Phillips
